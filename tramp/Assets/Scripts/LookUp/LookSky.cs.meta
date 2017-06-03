@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45ee42621f531475ba2327a543ee2ce1
+timeCreated: 1495537247
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - characterController: {instanceID: 0}
+  - target: {fileID: 1518336513857610, guid: b080f4a3892d04458a0f86707b463f6d, type: 2}
+  - camera1: {instanceID: 0}
+  - camera2: {instanceID: 0}
+  - camera3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
