@@ -1,0 +1,11 @@
+Download Kino Effects by Keijiro Takahashi from here:
+Kino Glitch
+https://github.com/keijiro/KinoGlitch
+Kino Datamosh
+https://github.com/keijiro/KinoDatamosh
+Kino Motion
+https://github.com/keijiro/KinoMotion
+Kino Slitscan
+https://github.com/keijiro/KinoSlitscan
+Kino Vision
+https://github.com/keijiro/KinoVision
