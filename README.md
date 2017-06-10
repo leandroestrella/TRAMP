@@ -26,15 +26,15 @@ Textures:
 
 Assets:
 - FPSController from Unity Standard Assets [http://u3d.as/cg6]
-- Sardine Model and Animation by Junnichi Suko [http://u3d.as/gyH]
-- Kino Glitch by Keijiro Takahashi [https://github.com/keijiro/KinoGlitch]
-- Kino Datamosh by Keijiro Takahashi [https://github.com/keijiro/KinoDatamosh]
-- Kino Motion by Keijiro Takahashi [https://github.com/keijiro/KinoMotion]
-- Kino Slitscan by Keijiro Takahashi [https://github.com/keijiro/KinoSlitscan]
-- Kino Vision by Keijiro Takahashi [https://github.com/keijiro/KinoVision]
+- Sardine Model and Animation [http://u3d.as/gyH] by Junnichi Suko
+- Kino Glitch [https://github.com/keijiro/KinoGlitch] by Keijiro Takahashi
+- Kino Datamosh [https://github.com/keijiro/KinoDatamosh] by Keijiro Takahashi
+- Kino Motion [https://github.com/keijiro/KinoMotion] by Keijiro Takahashi
+- Kino Slitscan [https://github.com/keijiro/KinoSlitscan] by Keijiro Takahashi
+- Kino Vision [https://github.com/keijiro/KinoVision] by Keijiro Takahashi
 
 Stock Sounds:
-- Footsteps from Fantasy Sound Effects Library by LittleRobotSoundFactory [https://goo.gl/Ecw8NK]
+- Footsteps from Fantasy Sound Effects Library [https://goo.gl/Ecw8NK] by LittleRobotSoundFactory
 
 Links & Documentation:
 - Itch.io [https://leandroestrella.itch.io/tramp]
