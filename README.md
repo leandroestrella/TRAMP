@@ -1,13 +1,11 @@
 # TRAMP
-/tɹæmp/
-
-noun: tramp; plural noun: tramps
-
-A long walk, possibly of more than one day, in a scenic or wilderness area.
-
-*“We tramped through the woods for hours before we found the main path again”*
-
-synonyms: trek, trudge, slog, hike, march, walk, constitutional, ramble, roam, wander;
+![GitHub Logo](/tramp/Assets/Images/Logo_TRAMP.png)
+> **TRAMP**  
+> /tɹæmp/  
+> *noun:* **tramp**; *plural noun:* **tramps**  
+> A long walk, possibly of more than one day, in a scenic or wilderness area.  
+> *“We tramped through the woods for hours before we found the main path again”*  
+> *synonyms:* trek, trudge, slog, hike, march, walk, constitutional, ramble, roam, wander;
 
 TRAMP is a sort of first person wander/walking simulator/art game created by Laura Martorana, Leandro Estrella and Adrián Martínez Puente. Developed during Francisco Martí Ferrer and Moisés Mañas Carbonell’s Interaction and Videogames Workshop at Universitat Politècnica de València.
 
