@@ -41,3 +41,4 @@ Links & Documentation:
 - Gameplays [https://trampgame.tumblr.com/gameplay]
 - GDD [https://trampgame.tumblr.com/gdd]
 - Facebook [https://www.facebook.com/trampgame/]
+- Merch [https://goo.gl/JHhpFR]
